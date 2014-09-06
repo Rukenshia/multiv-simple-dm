@@ -1,0 +1,14 @@
+[08:51:32] Log file started
+[08:51:32] [Masterlist] Adding server to server list...
+[08:51:32] Loaded module Squirrel
+[08:51:32] Loaded module Lua
+[08:51:32] Scanning for packages...
+[08:51:32]  Sucessfully loaded 4 packages.
+[08:51:32]  Started package beta.
+[08:51:32]  Started package console.
+[08:51:32] HTTP server initialized on port 5001.
+[08:51:32] 
+[08:51:32] Server is now ready to take connections...
+[08:51:32] [Masterlist] Sucessfully added server to server list.
+[08:51:35] [Masterlist] Removing server from server list.
+[08:51:36] Log file finished

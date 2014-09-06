@@ -1,0 +1,15 @@
+{
+    "language": "squirrel",
+    "scripts": [
+        {
+            "filepath": "main.nut",
+            "type": "server"
+        }
+    ],
+    "exports":
+    [
+        "ExportedFunction",
+        "ExportedFunction2"
+    ],
+    "assets": [ ]
+}

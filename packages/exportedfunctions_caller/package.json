@@ -1,0 +1,10 @@
+{
+	"language": "squirrel",
+    "scripts": [
+        {
+            "filepath": "main.nut",
+            "type": "server"
+        }
+    ],
+    "assets": [ ]
+}
