@@ -10,6 +10,14 @@
 			"type": "server"
 		},
 		{
+			"filepath": "Enumerations.nut",
+			"type": "server"
+		},
+		{
+			"filepath": "Utility.nut",
+			"type": "server"
+		},
+		{
 			"filepath": "Entities/Player.nut",
 			"type": "server"
 		},
@@ -22,7 +30,15 @@
 			"type": "server"
 		},
 		{
+			"filepath": "Classes/KillRecord.nut",
+			"type": "server"
+		},
+		{
 			"filepath": "Commands.nut",
+			"type": "server"
+		},
+		{
+			"filepath": "Events.nut",
 			"type": "server"
 		},
 		{

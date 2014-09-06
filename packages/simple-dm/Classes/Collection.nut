@@ -39,6 +39,14 @@ class
 		}
 	}
 
+	function Clear ()
+	{
+		m_tData.clear();
+	}
+
+	function All()
+		return GetData();
+
 	function GetAt (index)
 	{
 		if (!m_tData.rawin(index))
