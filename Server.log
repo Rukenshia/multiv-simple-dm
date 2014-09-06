@@ -12,3 +12,425 @@
 [08:51:32] [Masterlist] Sucessfully added server to server list.
 [08:51:35] [Masterlist] Removing server from server list.
 [08:51:36] Log file finished
+[09:01:11] Log file started
+[09:01:11] [Masterlist] Adding server to server list...
+[09:01:11] Loaded module Squirrel
+[09:01:11] Scanning for packages...
+[09:01:11]  Sucessfully loaded 2 packages.
+[09:01:11]  Started package playertest.
+[09:01:11]  Started package simple-dm.
+[09:01:11] HTTP server initialized on port 5001.
+[09:01:11] 
+[09:01:11] Server is now ready to take connections...
+[09:01:11] [Masterlist] Sucessfully added server to server list.
+[09:01:15] [Masterlist] Removing server from server list.
+[09:01:16] Log file finished
+[09:02:08] Log file started
+[09:02:08] [Masterlist] Adding server to server list...
+[09:02:08] Loaded module Squirrel
+[09:02:08] Scanning for packages...
+[09:02:08]  Sucessfully loaded 2 packages.
+[09:02:08]  Started package playertest.
+[09:02:08] 
+[09:02:08] AN ERROR HAS OCCURED [wrong number of parameters]
+[09:02:08] 
+[09:02:08] CALLSTACK
+[09:02:08] 
+[09:02:08] LOCALS
+[09:02:08] sq error: wrong number of parameters
+[09:02:08]  Started package simple-dm.
+[09:02:08] HTTP server initialized on port 5001.
+[09:02:08] 
+[09:02:08] Server is now ready to take connections...
+[09:02:08] [Masterlist] This server already exists in the server list.
+[09:02:15] [Masterlist] Removing server from server list.
+[09:02:15] Log file finished
+[09:02:58] Log file started
+[09:02:58] [Masterlist] Adding server to server list...
+[09:02:58] Loaded module Squirrel
+[09:02:58] Scanning for packages...
+[09:02:58]  Sucessfully loaded 2 packages.
+[09:02:58]  Started package playertest.
+[09:02:58] 
+[09:02:58] AN ERROR HAS OCCURED [wrong number of parameters]
+[09:02:58] 
+[09:02:58] CALLSTACK
+[09:02:58] 
+[09:02:58] LOCALS
+[09:02:58] sq error: wrong number of parameters
+[09:02:58]  Started package simple-dm.
+[09:02:58] HTTP server initialized on port 5001.
+[09:02:58] 
+[09:02:58] Server is now ready to take connections...
+[09:02:59] [Masterlist] This server already exists in the server list.
+[09:03:01] [Masterlist] Removing server from server list.
+[09:03:01] Log file finished
+[09:03:28] Log file started
+[09:03:28] [Masterlist] Adding server to server list...
+[09:03:28] Loaded module Squirrel
+[09:03:28] Scanning for packages...
+[09:03:28]  Sucessfully loaded 2 packages.
+[09:03:28]  Started package playertest.
+[09:03:28] 
+[09:03:28] AN ERROR HAS OCCURED [wrong number of parameters]
+[09:03:28] 
+[09:03:28] CALLSTACK
+[09:03:28] 
+[09:03:28] LOCALS
+[09:03:28] sq error: wrong number of parameters
+[09:03:28]  Started package simple-dm.
+[09:03:28] HTTP server initialized on port 5001.
+[09:03:28] 
+[09:03:28] Server is now ready to take connections...
+[09:03:29] [Masterlist] This server already exists in the server list.
+[09:03:32] [Masterlist] Removing server from server list.
+[09:03:32] Log file finished
+[09:03:37] Log file started
+[09:03:37] [Masterlist] Adding server to server list...
+[09:03:37] Loaded module Squirrel
+[09:03:37] Scanning for packages...
+[09:03:37]  Sucessfully loaded 2 packages.
+[09:03:37]  Started package playertest.
+[09:03:37] 
+[09:03:37] AN ERROR HAS OCCURED [wrong number of parameters]
+[09:03:37] 
+[09:03:37] CALLSTACK
+[09:03:37] 
+[09:03:37] LOCALS
+[09:03:37] sq error: wrong number of parameters
+[09:03:37]  Started package simple-dm.
+[09:03:37] HTTP server initialized on port 5001.
+[09:03:37] 
+[09:03:37] Server is now ready to take connections...
+[09:03:37] [Masterlist] This server already exists in the server list.
+[09:03:39] [Masterlist] Removing server from server list.
+[09:03:39] Log file finished
+[09:03:47] Log file started
+[09:03:47] [Masterlist] Adding server to server list...
+[09:03:47] Loaded module Squirrel
+[09:03:47] Scanning for packages...
+[09:03:47]  Sucessfully loaded 2 packages.
+[09:03:47]  Started package playertest.
+[09:03:47] 
+[09:03:47] AN ERROR HAS OCCURED [wrong number of parameters]
+[09:03:47] 
+[09:03:47] CALLSTACK
+[09:03:47] 
+[09:03:47] LOCALS
+[09:03:47] sq error: wrong number of parameters
+[09:03:47]  Started package simple-dm.
+[09:03:47] HTTP server initialized on port 5001.
+[09:03:47] 
+[09:03:47] Server is now ready to take connections...
+[09:03:48] [Masterlist] This server already exists in the server list.
+[09:03:49] [Masterlist] Removing server from server list.
+[09:03:50] Log file finished
+[09:03:59] Log file started
+[09:03:59] [Masterlist] Adding server to server list...
+[09:03:59] Loaded module Squirrel
+[09:03:59] Scanning for packages...
+[09:03:59]  Sucessfully loaded 2 packages.
+[09:03:59]  Started package playertest.
+[09:03:59] (instance : 0x006F91E8)
+[09:03:59] true
+[09:03:59]  Started package simple-dm.
+[09:03:59] HTTP server initialized on port 5001.
+[09:03:59] 
+[09:03:59] Server is now ready to take connections...
+[09:04:00] [Masterlist] This server already exists in the server list.
+[09:04:06] [Masterlist] Removing server from server list.
+[09:04:06] Log file finished
+[09:04:15] Log file started
+[09:04:15] [Masterlist] Adding server to server list...
+[09:04:15] Loaded module Squirrel
+[09:04:15] Scanning for packages...
+[09:04:15]  Sucessfully loaded 2 packages.
+[09:04:15]  Started package playertest.
+[09:04:15] (instance : 0x00E290F8)
+[09:04:15] true
+[09:04:15]  Started package simple-dm.
+[09:04:15] HTTP server initialized on port 5001.
+[09:04:15] 
+[09:04:15] Server is now ready to take connections...
+[09:04:16] [Masterlist] This server already exists in the server list.
+[09:04:19] [Masterlist] Removing server from server list.
+[09:04:20] Log file finished
+[09:04:27] Log file started
+[09:04:27] [Masterlist] Adding server to server list...
+[09:04:27] Loaded module Squirrel
+[09:04:27] Scanning for packages...
+[09:04:27]  Sucessfully loaded 2 packages.
+[09:04:27]  Started package playertest.
+[09:04:27] (instance : 0x00A28B60)
+[09:04:27] true
+[09:04:27]  Started package simple-dm.
+[09:04:27] HTTP server initialized on port 5001.
+[09:04:27] 
+[09:04:27] Server is now ready to take connections...
+[09:04:27] [Masterlist] This server already exists in the server list.
+[09:04:29] [Masterlist] Removing server from server list.
+[09:04:30] Log file finished
+[09:10:00] Log file started
+[09:10:00] [Masterlist] Adding server to server list...
+[09:10:00] Loaded module Squirrel
+[09:10:00] Loaded module Squirrel
+[09:10:00] Loaded module Lua
+[09:10:00] Scanning for packages...
+[09:10:00]  Sucessfully loaded 1 packages.
+[09:10:00]  Failed to start package  (Package does not exist).
+[09:10:00]  Failed to start package beta (Package does not exist).
+[09:10:00]  Failed to start package console (Package does not exist).
+[09:10:00] HTTP server initialized on port 5001.
+[09:10:00] 
+[09:10:00] Server is now ready to take connections...
+[09:10:00] [Masterlist] Sucessfully added server to server list.
+[09:10:02] [Masterlist] Removing server from server list.
+[09:10:03] Log file finished
+[09:10:30] Log file started
+[09:10:30] [Masterlist] Adding server to server list...
+[09:10:30] Loaded module Squirrel
+[09:10:30] Scanning for packages...
+[09:10:30]  Sucessfully loaded 1 packages.
+[09:10:30]  Started package simple-dm.
+[09:10:30] HTTP server initialized on port 5001.
+[09:10:30] 
+[09:10:30] Server is now ready to take connections...
+[09:10:30] [Masterlist] This server already exists in the server list.
+[09:10:32] [Masterlist] Removing server from server list.
+[09:10:33] Dump created
+[09:11:37] Log file started
+[09:11:37] [Masterlist] Adding server to server list...
+[09:11:37] Loaded module Squirrel
+[09:11:37] Scanning for packages...
+[09:11:37]  Sucessfully loaded 1 packages.
+[09:11:37]  Started package simple-dm.
+[09:11:37] HTTP server initialized on port 5001.
+[09:11:37] 
+[09:11:37] Server is now ready to take connections...
+[09:11:37] [Masterlist] This server already exists in the server list.
+[09:11:39] [Masterlist] Removing server from server list.
+[09:11:39] Dump created
+[09:11:52] Log file started
+[09:11:52] [Masterlist] Adding server to server list...
+[09:11:52] Loaded module Squirrel
+[09:11:52] Scanning for packages...
+[09:11:52]  Sucessfully loaded 1 packages.
+[09:11:52]  Started package simple-dm.
+[09:11:52] HTTP server initialized on port 5001.
+[09:11:52] 
+[09:11:52] Server is now ready to take connections...
+[09:11:52] [Masterlist] This server already exists in the server list.
+[09:11:54] [Masterlist] Removing server from server list.
+[09:11:54] Dump created
+[09:12:14] Log file started
+[09:12:14] [Masterlist] Adding server to server list...
+[09:12:14] Loaded module Squirrel
+[09:12:14] Scanning for packages...
+[09:12:14]  Sucessfully loaded 1 packages.
+[09:12:14]  Started package simple-dm.
+[09:12:14] HTTP server initialized on port 5001.
+[09:12:14] 
+[09:12:14] Server is now ready to take connections...
+[09:12:14] [Masterlist] This server already exists in the server list.
+[09:12:20] [Masterlist] Removing server from server list.
+[09:12:21] Dump created
+[09:12:29] Log file started
+[09:12:29] [Masterlist] Adding server to server list...
+[09:12:29] Loaded module Squirrel
+[09:12:29] Scanning for packages...
+[09:12:29]  Sucessfully loaded 1 packages.
+[09:12:29]  Started package simple-dm.
+[09:12:29] HTTP server initialized on port 5001.
+[09:12:29] 
+[09:12:29] Server is now ready to take connections...
+[09:12:29] [Masterlist] This server already exists in the server list.
+[09:12:32] [Masterlist] Removing server from server list.
+[09:12:33] Dump created
+[09:12:42] Log file started
+[09:12:42] [Masterlist] Adding server to server list...
+[09:12:42] Loaded module Squirrel
+[09:12:42] Scanning for packages...
+[09:12:42]  Sucessfully loaded 1 packages.
+[09:12:42] 
+[09:12:42] AN ERROR HAS OCCURED [the index 'Add' does not exist]
+[09:12:42] 
+[09:12:42] CALLSTACK
+[09:12:42] *FUNCTION [Register()] C:\Users\Jan\Desktop\Projects\MultIV\multiv-simple-dm\packages/simple-dm/Commands.nut line [13]
+[09:12:42] *FUNCTION [OnPackageStart()] C:\Users\Jan\Desktop\Projects\MultIV\multiv-simple-dm\packages/simple-dm/Main.nut line [12]
+[09:12:42] 
+[09:12:42] LOCALS
+[09:12:42] [this] TABLE
+[09:12:42] [strArgs] ""C:\Users\Jan\Desktop\Projects\MultIV\multiv-simple-dm\Server.exe" "
+[09:12:42] [package] INSTANCE
+[09:12:42] [this] TABLE
+[09:12:42] sq error: the index 'Add' does not exist
+[09:12:42]  Started package simple-dm.
+[09:12:42] HTTP server initialized on port 5001.
+[09:12:42] 
+[09:12:42] Server is now ready to take connections...
+[09:12:42] [Masterlist] This server already exists in the server list.
+[09:12:44] [Masterlist] Removing server from server list.
+[09:12:45] Log file finished
+[09:12:49] Log file started
+[09:12:49] [Masterlist] Adding server to server list...
+[09:12:49] Loaded module Squirrel
+[09:12:49] Scanning for packages...
+[09:12:49]  Sucessfully loaded 1 packages.
+[09:12:49] 
+[09:12:49] AN ERROR HAS OCCURED [wrong number of parameters]
+[09:12:49] 
+[09:12:49] CALLSTACK
+[09:12:49] *FUNCTION [Register()] C:\Users\Jan\Desktop\Projects\MultIV\multiv-simple-dm\packages/simple-dm/Commands.nut line [13]
+[09:12:49] *FUNCTION [OnPackageStart()] C:\Users\Jan\Desktop\Projects\MultIV\multiv-simple-dm\packages/simple-dm/Main.nut line [12]
+[09:12:49] 
+[09:12:49] LOCALS
+[09:12:49] [this] TABLE
+[09:12:49] [strArgs] ""C:\Users\Jan\Desktop\Projects\MultIV\multiv-simple-dm\Server.exe" "
+[09:12:49] [package] INSTANCE
+[09:12:49] [this] TABLE
+[09:12:49] sq error: wrong number of parameters
+[09:12:49]  Started package simple-dm.
+[09:12:49] HTTP server initialized on port 5001.
+[09:12:49] 
+[09:12:49] Server is now ready to take connections...
+[09:12:50] [Masterlist] This server already exists in the server list.
+[09:12:54] [Masterlist] Removing server from server list.
+[09:12:55] Log file finished
+[09:13:31] Log file started
+[09:13:31] [Masterlist] Adding server to server list...
+[09:13:31] Loaded module Squirrel
+[09:13:31] Scanning for packages...
+[09:13:31]  Sucessfully loaded 1 packages.
+[09:13:31] Commands registered.
+[09:13:31]  Started package simple-dm.
+[09:13:31] HTTP server initialized on port 5001.
+[09:13:31] 
+[09:13:31] Server is now ready to take connections...
+[09:13:32] [Masterlist] This server already exists in the server list.
+[09:13:34] [Masterlist] Removing server from server list.
+[09:13:35] Log file finished
+[09:14:24] Log file started
+[09:14:24] [Masterlist] Adding server to server list...
+[09:14:24] Loaded module Squirrel
+[09:14:24] Scanning for packages...
+[09:14:24]  Sucessfully loaded 1 packages.
+[09:14:24] Commands registered.
+[09:14:24]  Started package simple-dm.
+[09:14:24] HTTP server initialized on port 5001.
+[09:14:24] 
+[09:14:24] Server is now ready to take connections...
+[09:14:24] [Masterlist] This server already exists in the server list.
+[09:14:26] [Masterlist] Removing server from server list.
+[09:14:27] Log file finished
+[09:14:36] Log file started
+[09:14:36] [Masterlist] Adding server to server list...
+[09:14:36] Loaded module Squirrel
+[09:14:36] Scanning for packages...
+[09:14:36]  Sucessfully loaded 1 packages.
+[09:14:36] [Simple DM] Commands registered.
+[09:14:36]  Started package simple-dm.
+[09:14:36] HTTP server initialized on port 5001.
+[09:14:36] 
+[09:14:36] Server is now ready to take connections...
+[09:14:37] [Masterlist] This server already exists in the server list.
+[09:14:41] [Masterlist] Removing server from server list.
+[09:14:41] Log file finished
+[09:15:19] Log file started
+[09:15:19] [Masterlist] Adding server to server list...
+[09:15:19] Loaded module Squirrel
+[09:15:19] Scanning for packages...
+[09:15:19]  Sucessfully loaded 1 packages.
+[09:15:19] sq error: cannot open the file
+[09:15:19] [Simple DM] Commands registered.
+[09:15:19]  Started package simple-dm.
+[09:15:19] HTTP server initialized on port 5001.
+[09:15:19] 
+[09:15:19] Server is now ready to take connections...
+[09:15:19] [Masterlist] This server already exists in the server list.
+[09:15:21] [Masterlist] Removing server from server list.
+[09:15:22] Log file finished
+[09:15:27] Log file started
+[09:15:27] [Masterlist] Adding server to server list...
+[09:15:27] Loaded module Squirrel
+[09:15:27] Scanning for packages...
+[09:15:27]  Sucessfully loaded 1 packages.
+[09:15:27] sq error: cannot open the file
+[09:15:27] [Simple DM] Commands registered.
+[09:15:27]  Started package simple-dm.
+[09:15:27] HTTP server initialized on port 5001.
+[09:15:27] 
+[09:15:27] Server is now ready to take connections...
+[09:15:27] [Masterlist] This server already exists in the server list.
+[09:15:30] [Masterlist] Removing server from server list.
+[09:15:31] Log file finished
+[09:15:39] Log file started
+[09:15:39] [Masterlist] Adding server to server list...
+[09:15:39] Loaded module Squirrel
+[09:15:39] Scanning for packages...
+[09:15:39]  Sucessfully loaded 1 packages.
+[09:15:39] [Simple DM] Commands registered.
+[09:15:39]  Started package simple-dm.
+[09:15:39] HTTP server initialized on port 5001.
+[09:15:39] 
+[09:15:39] Server is now ready to take connections...
+[09:15:39] [Masterlist] This server already exists in the server list.
+[09:15:42] [Masterlist] Removing server from server list.
+[09:15:42] Log file finished
+[09:19:35] Log file started
+[09:19:35] [Masterlist] Adding server to server list...
+[09:19:35] Loaded module Squirrel
+[09:19:35] Scanning for packages...
+[09:19:35]  Sucessfully loaded 1 packages.
+[09:19:35] [Simple DM] Commands registered.
+[09:19:35]  Started package simple-dm.
+[09:19:35] HTTP server initialized on port 5001.
+[09:19:35] 
+[09:19:35] Server is now ready to take connections...
+[09:19:35] [Masterlist] Sucessfully added server to server list.
+[09:19:37] [Masterlist] Removing server from server list.
+[09:19:38] Log file finished
+[09:21:24] Log file started
+[09:21:24] [Masterlist] Adding server to server list...
+[09:21:24] Loaded module Squirrel
+[09:21:24] Scanning for packages...
+[09:21:24]  Sucessfully loaded 1 packages.
+[09:21:24] [Simple DM] Commands registered.
+[09:21:24] [Simple DM] Creating Team 'Team One'
+[09:21:24] [Simple DM] Creating Team 'Team Two'
+[09:21:24]  Started package simple-dm.
+[09:21:24] HTTP server initialized on port 5001.
+[09:21:24] 
+[09:21:24] Server is now ready to take connections...
+[09:21:24] [Masterlist] This server already exists in the server list.
+[09:21:28] [Masterlist] Removing server from server list.
+[09:21:29] Log file finished
+[09:21:56] Log file started
+[09:21:56] [Masterlist] Adding server to server list...
+[09:21:56] Loaded module Squirrel
+[09:21:56] Scanning for packages...
+[09:21:56]  Sucessfully loaded 1 packages.
+[09:21:56] [Simple DM] Commands registered.
+[09:21:56] [Simple DM] Creating Team 'Team One'
+[09:21:56] [Simple DM] Creating Team 'Team Two'
+[09:21:56]  Started package simple-dm.
+[09:21:56] HTTP server initialized on port 5001.
+[09:21:56] 
+[09:21:56] Server is now ready to take connections...
+[09:21:56] [Masterlist] This server already exists in the server list.
+[09:21:57] [Masterlist] Removing server from server list.
+[09:21:58] Log file finished
+[09:24:54] Log file started
+[09:24:54] [Masterlist] Adding server to server list...
+[09:24:54] Loaded module Squirrel
+[09:24:54] Scanning for packages...
+[09:24:54]  Sucessfully loaded 1 packages.
+[09:24:54] [Simple DM] Commands registered.
+[09:24:54] [Simple DM] Creating Team 'Team One'
+[09:24:54] [Simple DM] Creating Team 'Team Two'
+[09:24:54]  Started package simple-dm.
+[09:24:54] HTTP server initialized on port 5001.
+[09:24:54] 
+[09:24:54] Server is now ready to take connections...
+[09:24:54] [Masterlist] This server already exists in the server list.
+[09:24:55] [Masterlist] Removing server from server list.
+[09:24:56] Log file finished

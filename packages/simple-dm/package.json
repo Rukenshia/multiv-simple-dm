@@ -1,0 +1,32 @@
+{
+	"language": "squirrel",
+	"scripts": [
+		{
+			"filepath": "../../Config/Config.nut",
+			"type": "server"
+		},
+		{
+			"filepath": "Hooks.nut",
+			"type": "server"
+		},
+		{
+			"filepath": "Entities/Player.nut",
+			"type": "server"
+		},
+		{
+			"filepath": "Classes/Collection.nut",
+			"type": "server"
+		},
+		{
+			"filepath": "Classes/Team.nut",
+			"type": "server"
+		},
+		{
+			"filepath": "Commands.nut",
+			"type": "server"
+		},
+		{
+			"filepath": "Main.nut",
+			"type": "server"
+		}]
+}
